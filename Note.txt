@@ -1,0 +1,19 @@
+     if we divide any integer by an integer we always get an integer which then gets converted to the float datatype as we have used float variable to store the answer
+     i.e.
+            // float a=5/2 is equivalent to float a=2
+
+ Hierarchy Of Operators:Same weight ko operators xa bhane left to right process garxa computer leh.
+ 2*3/4=6/4
+
+ ASCII Values:
+ A to Z is 65 to 90
+ a to z is 97 to 122
+
+ NOTE:
+ short datatype(2 bytes) stores 2 to the power 16 numbers i.e. from -32768 to +32767
+ int datatype(4 bytes) stores 2 to the power 32 numbers i.e. from -2147483648 to 2147483647    
+ The expression x=4+2%-8 gives x=6;
+ if d ia a float then d=2/7.0 gives d=0.285714
+
+ Ternary Operator:
+ n%2==0 ? printf("Even Number) : printf("Odd Number);
